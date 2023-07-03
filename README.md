@@ -24,10 +24,10 @@ The system provides the following functionalities:
 The system uses an AVL tree as the data structure to store and maintain the records of members and trainers. Each member and trainer record is represented as a node in the AVL tree. The AVL tree provides efficient insertion, deletion, and search operations while maintaining a balanced tree structure.
 
 # Skills Used
-1.Programming Language: C
-2.Data Structures: AVL TREE
-3.Algorithm design and implementation
-4.Sorting and searching techniques
-5.Menu-driven user interface
-6.Error handling and validation
-7.Problem-solving and logical thinking
+1.Programming Language: C.
+2.Data Structures: AVL TREE.
+3.Algorithm design and implementation.
+4.Sorting and searching techniques.
+5.Menu-driven user interface.
+6.Error handling and validation.
+7.Problem-solving and logical thinking.
